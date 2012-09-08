@@ -1,0 +1,6 @@
+= NLFW - Natural Language Framework
+
+Natural Language Framework is intended to be a collection of bindings for Ruby
+and provide access to general purpose NLP components. OpenNLP, GATE components,
+standalone tools (TreeTagger, Stanford Parser, etc.) will be accessible through
+NLFW.
